@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SMSQuick</string>
+    <string name="send"><![CDATA[>]]></string>
+    <string name="enter_message">Enter message</string>
+    <string name="enter_phone_number">Enter phone number</string>
+    <string name="send_sms">SEND</string>
+    <string name="about">About us</string>
+    <string name="smsquick">SMSQuick</string>
+    <string name="vtu_mad_18csmp68_mini_project">VTU MAD (18CSMP68) Mini Project</string>
+    <string name="logo">logo</string>
+    <string name="todo">TODO</string>
+    <string name="copyrights">Copyright ©2023. All rights reserved</string>
+    <string name="developed_by">Developed by,</string>
+    <string name="ankith_c_r">Ankith C R</string>
+    <string name="dyuthi_h">Dyuthi H</string>
+    <string name="chirag_k_v">Chirag K V</string>
+    <string name="sagar_gowda_k_m">Sagar Gowda K M</string>
+    <string name="back">BACK</string>
+</resources>
